@@ -1,0 +1,38 @@
+{
+    "sourceFile": "Git.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 5,
+            "patches": [
+                {
+                    "date": 1645416154510,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1645416219304,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-## Git Document\r\n+## Work with Git on VS Code\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645416258737,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,4 @@\n-## Work with Git on VS Code\n\\ No newline at end of file\n+## Work with Git on VS Code\r\n+\r\n+- Initialize Repository\r\n+- Open fold in vs code and click initialize repository\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645416273466,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n ## Work with Git on VS Code\r\n \r\n - Initialize Repository\r\n-- Open fold in vs code and click initialize repository\n\\ No newline at end of file\n+-# Open fold in vs code and click initialize repository\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645416288311,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,6 @@\n ## Work with Git on VS Code\r\n \r\n - Initialize Repository\r\n--# Open fold in vs code and click initialize repository\n\\ No newline at end of file\n+- Open fold in vs code and click initialize repository\r\n+  \r\n+  \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645416368541,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,5 @@\n ## Work with Git on VS Code\r\n \r\n-- Initialize Repository\r\n-- Open fold in vs code and click initialize repository\r\n+Initialize Repository\r\n+Open fold in vs code and click initialize repository\r\n\\ No newline at end of file\n   \r\n-  \n"
+                }
+            ],
+            "date": 1645416154510,
+            "name": "Commit-0",
+            "content": "## Git Document\r\n"
+        }
+    ]
+}
